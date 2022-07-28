@@ -16,3 +16,7 @@
   * Line2
   * Line3
   
+
+**Images**
+
+![Вставили изображение](https://user-images.githubusercontent.com/109853676/181640227-a266d3c6-2030-4a19-98c9-4332d4718fd1.jpeg)
